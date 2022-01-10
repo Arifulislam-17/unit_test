@@ -1,0 +1,4 @@
+com/example/simpleparadox/listycity/ExampleUnitTest.java
+ com.example.simpleparadox.listycity.ExampleUnitTest
+com/example/simpleparadox/listycity/CityListTest.java
+ com.example.simpleparadox.listycity.CityListTest
